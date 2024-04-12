@@ -34,5 +34,3 @@ app.get("/",(req,res)=>{
 
 //using error middleware
 app.use(errorMiddleware);
-
-
